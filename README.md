@@ -21,4 +21,4 @@ Speaker: [Mitul Goakiya](https://twitter.com/mitulgolakiya)
 
 Meetup: [Laravel Ahmedabad](https://twitter.com/LaravelAhm) Jun 2020
 
-PPT: TBD
+PPT: [Efficient Laravel Development Tips.pdf](https://drive.google.com/file/d/1sXbMCd7ZuxbH1VLc8rjC5_JHsRSUex7q/view?usp=sharing)

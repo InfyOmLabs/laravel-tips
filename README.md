@@ -1,6 +1,6 @@
-# Laravel Tips
+# Efficient Laravel Development Tips
 
-Source code for Laravel Tips of Laravel Ahemdabad Jun 2020 Meetup.
+Source code for Efficient Laravel Development Tips of Laravel Ahemdabad Jun 2020 Meetup by Mitul Golakiya.
 
 ## Tips
 

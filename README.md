@@ -26,8 +26,6 @@ Meetup: [Laravel Ahmedabad](https://twitter.com/LaravelAhm) Jun 2020
 
 PPT: [Efficient Laravel Development Tips.pdf](https://bit.ly/2BIbMvE)
 
-<h1 align="center"><img src="https://assets.infyom.com/open-source/infyom-logo.png" alt="InfyOm"></h1>
-
 ## Support Us
 
 We have created [14+ Laravel packages](https://github.com/InfyOmLabs) and invested a lot of resources into creating these all packages and maintaining them.
